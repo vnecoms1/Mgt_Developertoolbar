@@ -1,8 +1,8 @@
 {
-  "name": "mgtcommerce/module-mgtdevelopertoolbar",
-  "description": "Mgt Developer Toolbar",
+  "name": "vnecoms/module-mgtdevelopertoolbar",
+  "description": "vnecoms magento Developer Toolbar",
   "keywords": ["magento developer toolbar", "mgt developer toolbar"],
-  "homepage": "https://www.mgt-commerce.com",
+  "homepage": "https://www.vnecoms.com",
   "type": "magento2-module",
   "require": {
     "php": ">=5.5.9",
