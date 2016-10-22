@@ -1,7 +1,7 @@
 {
-  "name": "vnecoms/module-mgtdevelopertoolbar",
+  "name": "vnecoms/module-developertoolbar",
   "description": "vnecoms magento Developer Toolbar",
-  "keywords": ["magento developer toolbar", "mgt developer toolbar"],
+  "keywords": ["magento developer toolbar", "vnecoms developer toolbar"],
   "homepage": "https://www.vnecoms.com",
   "type": "magento2-module",
   "require": {
